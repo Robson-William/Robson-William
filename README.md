@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, eu sou Robson 👋
+
+📚 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB)
 
 <!--
 **Robson-William/Robson-William** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
