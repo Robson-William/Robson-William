@@ -2,6 +2,9 @@
 
 📚 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB)
 
+## Linguagens de programação mais usadas
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
+
 <!--
 **Robson-William/Robson-William** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
